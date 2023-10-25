@@ -10,11 +10,6 @@
 - 🎮 Games
 - 🏋️‍♀️ Exercícios
 
-  <br>
-
-### Não se perca nos meus repositórios 🗺
-Criei um repositório especial para te guiar entre meus outros repositórios! É só clicar **[aqui](https://github.com/caioverri/mapa-guia)**.
-
 <br>
 
 ### Ferramentas que tenho maior familiaridade
@@ -25,6 +20,11 @@ Criei um repositório especial para te guiar entre meus outros repositórios! É
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
+
+### Não se perca nos meus repositórios 🗺
+Criei um repositório especial para te guiar entre meus outros repositórios! É só clicar **[aqui](https://github.com/caioverri/mapa-guia)**.
 
 <br>
 
