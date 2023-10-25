@@ -23,7 +23,7 @@
 
 <br>
 
-### Não se perca nos meus repositórios 🗺
+### **Não se perca nos meus repositórios** 🗺
 Criei um repositório especial para te guiar entre meus outros repositórios! É só clicar **[aqui](https://github.com/caioverri/mapa-guia)**.
 
 <br>
