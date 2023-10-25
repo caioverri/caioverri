@@ -1,7 +1,7 @@
 # Oi, eu sou o Caio ✌
 
 - 🎓 Graduado em Tecnologia em Jogos Digitais
-- 👨‍🎓 Graduando de Análise e Desenvolvimento de Sistemas.
+- 🎓 Graduando de Análise e Desenvolvimento de Sistemas.
 
   <br>
 
