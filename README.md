@@ -6,6 +6,7 @@
   <br>
 
 ## Hobbies
+
 - 📚 Estudar
 - 🎮 Games
 - 🏋️‍♀️ Exercícios
@@ -13,6 +14,7 @@
 <br>
 
 ## Ferramentas que tenho maior familiaridade
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -22,6 +24,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
+
+## Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=caioverri&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## **Não se perca nos meus repositórios** 🗺
 Criei um repositório especial para te guiar entre meus outros repositórios! É só clicar **[aqui](https://github.com/caioverri/mapa-guia)**.
