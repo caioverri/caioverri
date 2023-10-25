@@ -1,14 +1,21 @@
 # Oi, eu sou o Caio ✌
 
-🎓 Graduado em Tecnologia em Jogos Digitais e estudante de Análise e Desenvolvimento de Sistemas.
+- 🎓 Graduado em Tecnologia em Jogos Digitais
+- 👨‍🎓 Graduando de Análise e Desenvolvimento de Sistemas.
+
+  <br>
 
 ### Hobbies
 - 📚 Estudar
 - 🎮 Games
 - 🏋️‍♀️ Exercícios
 
+  <br>
+
 ### Não se perca nos meus repositórios 🗺
 Criei um repositório especial para te guiar entre meus outros repositórios! É só clicar **[aqui](https://github.com/caioverri/mapa-guia)**.
+
+<br>
 
 ### Ferramentas que tenho maior familiaridade
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -18,6 +25,8 @@ Criei um repositório especial para te guiar entre meus outros repositórios! É
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
 
 ### Contato
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caioverridelima/)
