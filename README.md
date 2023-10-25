@@ -1,5 +1,7 @@
 # Oi, eu sou o Caio ✌
 
+### 👨‍🎓 Formação
+
 - 🎓 Graduado em Tecnologia em Jogos Digitais
 - 🎓 Graduando de Análise e Desenvolvimento de Sistemas.
 
