@@ -1,17 +1,11 @@
 # Oi, eu sou o Caio ✌
 
-### 👨‍🎓 Formação
+### 🙋‍♂️ Sobre mim
 
 - 🎓 Graduado em Tecnologia em Jogos Digitais
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas
-
-  <br>
-
-### ☀ Hobbies
-
-- 📚 Estudar
-- 🎮 Games
-- 🏋️‍♀️ Exercícios
+- 🎮 Gamer
+- 🚀 Em constante evolução
 
 <br>
 
