@@ -4,8 +4,8 @@
 
 - 🎓 Graduado em Tecnologia em Jogos Digitais
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas
-- 🎮 Gamer
 - 🚀 Em constante evolução
+- 🎮 Gamer
 
 <br>
 
