@@ -29,6 +29,8 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=caioverri&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+<br>
+
 ## **Não se perca nos meus repositórios** 🗺
 Criei um repositório especial para te guiar entre meus outros repositórios! É só clicar **[aqui](https://github.com/caioverri/mapa-guia)**.
 
