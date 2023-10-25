@@ -3,7 +3,7 @@
 ### 👨‍🎓 Formação
 
 - 🎓 Graduado em Tecnologia em Jogos Digitais
-- 🎓 Graduando de Análise e Desenvolvimento de Sistemas.
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas
 
   <br>
 
@@ -38,6 +38,6 @@ Criei um repositório especial para te guiar entre meus outros repositórios! É
 
 <br>
 
-### ✉ Contato
+### 📨 Contato
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caioverridelima/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:caioverri@outlook.com)
