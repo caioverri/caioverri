@@ -2,8 +2,8 @@
 
 ### 🙋‍♂️ Sobre mim
 
-- 🎓 Graduado em Tecnologia em Jogos Digitais
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas
+- 🎓 Graduado em Tecnologia em Jogos Digitais
 - 🚀 Em constante evolução
 - 🎮 Gamer
 
